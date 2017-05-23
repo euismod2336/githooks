@@ -1,4 +1,4 @@
-PHP Codesniffer Pre-Commit Hook for GIT - Modified for PWT
+PHP Codesniffer Pre-Commit Hook for GIT
 
 Based on: 
 - https://github.com/s0enke/git-hooks/tree/master/phpcs-pre-commit

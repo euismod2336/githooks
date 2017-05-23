@@ -8,7 +8,7 @@ PHPCBF_BIN=/usr/bin/phpcs
 # e. g. /path/to/my/standard/dir/
 PHPCS_CODING_STANDARD=Joomla
 
-# patterns of files being ignored
+# pattern of files being ignored
 PHPCS_IGNORE=
 
 # comma-seperated list of sniffs from the standard that should be used
