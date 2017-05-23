@@ -49,7 +49,7 @@ do
         # Allow to ignore some files
 		echo "$FILE" | egrep -q "$PHPCS_IGNORE"
 		RETVAL=$?
-		if [ "$RETVAL" -eq "0" ]
+		if [ "$RETVAL" -eq "1" ]
 		then
 			FILES_TO_CHECK="$FILES_TO_CHECK $FILE"
 		fi
