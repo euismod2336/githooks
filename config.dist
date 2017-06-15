@@ -9,7 +9,7 @@ PHPCBF_BIN=/usr/bin/phpcs
 PHPCS_CODING_STANDARD=Joomla
 
 # pattern of files being ignored
-PHPCS_IGNORE=
+PHPCS_IGNORE=templates\/|tmpl\/
 
 # comma-seperated list of sniffs from the standard that should be used
 # use `phpcs --standard=PSR1 -e` to list sniffs for your standard
